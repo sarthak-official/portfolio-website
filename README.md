@@ -17,7 +17,6 @@ I enjoy building real-world projects and continuously improving my technical ski
 - HTML5
 - CSS3
 - JavaScript
-- Git & GitHub
 - Netlify (for deployment)
 
 ---
@@ -34,34 +33,19 @@ I enjoy building real-world projects and continuously improving my technical ski
 ---
 
 ## 📂 Project Structure
-'''
+
+```
 portfolio-website/
 │── index.html  
 │── style.css
-│── README.md  
-'''
+│── README.md 
+```
 ---
 
 ## 🌍 Live Website
 
 🔗 Live Demo:  
 https://sarthakghodake-portfolio.netlify.app/
-
----
-
-## ▶️ How to Run Locally
-
-1. Clone the repository:
-   git clone https://github.com/sarthak-official/portfolio-website.git
-
-2. Open index.html in your browser.
-
----
-
-## 📬 Contact
-
-GitHub: https://github.com/sarthak-official  
-Email: sarthakghodake00@example.com  
 
 ---
 
