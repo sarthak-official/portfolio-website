@@ -37,6 +37,7 @@ I enjoy building real-world projects and continuously improving my technical ski
 ```
 portfolio-website/
 │── index.html  
+│── script.js
 │── style.css
 │── README.md 
 ```
