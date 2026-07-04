@@ -1,53 +1,72 @@
 # 🌐 Sarthak Ghodake - Portfolio Website
 
-This is my personal portfolio website built using HTML, CSS, and JavaScript.  
-It showcases my technical skills, projects, and development journey as a Computer Science student.
+This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my technical skills, certifications, projects, and development journey as a B.Sc. Computer Science student.
 
 ---
 
 ## 👨‍💻 About Me
 
-I am currently pursuing B.Sc in Computer Science with a strong interest in software development.  
-I enjoy building real-world projects and continuously improving my technical skills.
+I am a B.Sc. Computer Science student with a strong interest in Full-Stack Development and Cloud Computing. I enjoy building practical web applications, continuously learning new technologies, and improving my software development skills.
 
 ---
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- Netlify (for deployment)
+- Git & GitHub
+- Netlify (Deployment)
 
 ---
 
 ## ✨ Features
 
-- Responsive design
-- Clean and modern UI
-- About section
-- Skills section
+- Responsive and modern UI
+- About Me section
+- Technical Skills section
 - Projects showcase
+- Microsoft Azure (AZ-900) Certification
 - Contact section
+- Resume download
+- Smooth scrolling navigation
 
 ---
 
 ## 📂 Project Structure
 
+```text
+portfolio/
+├── files/
+│   └── Resume.pdf
+├── images/
+│   └── favicon.png
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 ```
-portfolio-website/
-│── index.html  
-│── script.js
-│── style.css
-│── README.md 
-```
+
+---
+
+## 🚀 Projects Included
+
+- Smart Expense Splitter
+- NextHak – Mock Test Platform
+
 ---
 
 ## 🌍 Live Website
 
-🔗 Live Demo:  
-https://sarthakghodake-portfolio.netlify.app/
+🔗 https://sarthakghodake-portfolio.netlify.app/
 
 ---
 
-⭐ Thank you for visiting my portfolio repository!
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/sarthak-official
+- **LinkedIn:** https://linkedin.com/in/sarthak-ghodake
+
+---
+
+⭐ Thank you for visiting my portfolio repository! If you like this project, consider giving it a ⭐ on GitHub.
